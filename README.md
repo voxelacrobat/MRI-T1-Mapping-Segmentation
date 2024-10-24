@@ -8,5 +8,10 @@ The following processing steps are performed:
 2. Create subsets (train and validation) or (train, validation and test) of data
 3. Prepare images for the training loop
 4. Run the training loop over a various number of epochs and store the results and the model weights in a folder
-5. Plot source images, ground truth mask and predictions as image files for the validation dataset    
+5. Plot source images, ground truth mask and predictions as image files for the validation dataset
+
+
+All results were published on Scientific Reports (https://www.nature.com/articles/s41598-024-69529-7
+![grafik](https://github.com/user-attachments/assets/7001c74b-62c7-4663-bcfd-d3e0b921fb7b))
+
 
