@@ -11,6 +11,6 @@ The following processing steps are performed:
 5. Plot source images, ground truth mask and predictions as image files for the validation dataset
 
 
-All results were published on Scientific Reports (https://www.nature.com/articles/s41598-024-69529-7)
+All results have been published on Scientific Reports (https://www.nature.com/articles/s41598-024-69529-7).
 
 
